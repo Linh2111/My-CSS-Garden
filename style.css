@@ -1,0 +1,32 @@
+a{
+  text-decoration: none;
+}
+body {
+  background-color: #ede9f1;
+  font-family: cursive;
+  color: #542654;
+}
+nav {
+  background-color: rgb(236, 234, 236)
+}
+nav, h3{
+  color: #b597af;
+}
+aside {
+  color: #a73979;
+}
+nav, aside {
+  color: #e17083;
+}
+a {
+  text-decoration:none;
+  color: #78b5c4;
+  transition: all 0.4s linear;
+}
+a:hover {
+  color: pink;
+}
+
+b {
+  color: #4d7e93;
+}
